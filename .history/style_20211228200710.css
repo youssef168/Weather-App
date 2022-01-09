@@ -1,0 +1,65 @@
+/* Start Global Rules */
+body {
+    font-family: 'Nunito', sans-serif;
+    background: #555
+
+}
+
+
+
+.super {
+    margin: auto;
+    margin-top: 70px;
+    width: fit-content;
+    background: #fff;
+    border-radius: 12px;
+    /* background-image: url('./blob.svg');
+    background-repeat: no-repeat;
+    background-size: covere; */
+}
+
+/* end Global Rules */
+
+h2 {
+    font-weight: bold !important;
+    /* font-size: 3.6rem !important; */
+    line-height: 55px ;
+}
+
+.container {
+    padding: 0;
+}
+
+.wearher-img {
+    width: 330px;
+}
+
+.col {
+    padding: 22px;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.weather-details {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.sign {
+    margin-left: -5px;
+}
+
+.weatherStatus {
+    font-weight: bolder;
+    font-size: 1.8rem;
+}
+
+.location {
+    font-size: 1.4rem;
+    display: flex;
+    align-items: center;
+    background-color: #407BFF;
+    padding: 5px 13px;
+}
